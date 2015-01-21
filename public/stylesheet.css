@@ -31,6 +31,10 @@ h1{
 	font-family: 'Raleway', sans-serif;
 }
 
+.profile_pic{
+  border-radius: 3px;
+}
+
 /*Navbar*/
 
 .navbar-portfolio {
