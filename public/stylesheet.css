@@ -4,11 +4,12 @@ body{
 /*	background-color: #F7E1BE;*/
       background-image: url(http://www.transparenttextures.com/patterns/cream-pixels.png);
 	background-repeat: no-repeat;
+      background-attachment: fixed;
 	background-size: cover;
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
   	-o-background-size: cover;
-      background-size: 2000px 1300px;
+ /*     background-size: 2000px 1300px;*/
 }
 
 .header{
